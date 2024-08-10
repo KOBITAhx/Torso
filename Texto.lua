@@ -1,4 +1,4 @@
-_G.TorsoSize = 10 
+_G.TorsoSize = 25
 _G.Enabled = true
 
 game:GetService('RunService').RenderStepped:connect(function()
